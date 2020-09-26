@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0",
+        "nome": "Ada Lovelace",
+        "descrição": "Diva da programação",
+        "leiaMais": "descrevia operações lógicas de uma máquina antes de existir o computador "
+    },
+    {
+        "id": "1",
+        "nome": "Edith Clarke",
+        "descrição": "Primeira mulher a conquistar um mestrado em em Tecnologia no MIT",
+        "leiaMais": "primeira mulher a ensinar engenharia na Universidade dos Texas"
+    },
+    {
+        "id": "2",
+        "nome": "Grace Hopper",
+        "descrição": "Uma das primeiras programadoras do computador Harvard Mark I",
+        "leiaMais": "Inventou o primeiro compilador para uma linguagem de programação"
+    }
+]
